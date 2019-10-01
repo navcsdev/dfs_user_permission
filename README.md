@@ -91,9 +91,11 @@ BUILD SUCCESSFUL in 1s
 16 }
 ```
 
-The lines 5-15 is constant. It executes U times. Thus total work done O(U)
-The line 5-15: For each while loop they have been executed same number of times as the elements in staffs of user (max is number permissions of user) so the complexity is O(P)
-combining these two separate works done the total work comes out to be O(U) + O(P) = O(U+P)
+The lines 5-15 is constant. It executes U times. Thus total work done O(U).
+
+The line 5-15: For each while loop they have been executed same number of times as the elements in staffs of user (max is number permissions of user) so the complexity is O(P).
+
+Combining these two separate works done the total work comes out to be O(U) + O(P) = O(U+P)
 
 ## Question 1 and Question 4
 
